@@ -7,4 +7,4 @@ echo Hi
 
 pause
 
-go to :Marker_name
+goto :Marker_name
